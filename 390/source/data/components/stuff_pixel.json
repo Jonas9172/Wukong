@@ -1,0 +1,24 @@
+{
+  "image_name": "stuff_pixel",
+  "image_frames":{
+      "cloud0": [
+          {"x": 0, "y": 0, "width": 64, "height": 28},
+          {"x": 0, "y": 29, "width": 64, "height": 28},
+          {"x": 0, "y": 58, "width": 64, "height": 28}
+      ],
+      "cloud1": [
+          {"x": 65, "y": 65, "width": 128, "height": 28}
+      ],
+      "portal": [
+          {"x": 65, "y": 34, "width": 46, "height": 30}
+      ],
+      "coin_disappear": [
+          {"x": 110, "y": 0, "width": 14, "height": 14},
+          {"x": 125, "y": 0, "width": 14, "height": 14}
+      ]
+  },
+  "speed": {
+    "velocity": 4
+  }
+
+}
